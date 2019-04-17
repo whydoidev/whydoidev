@@ -1,0 +1,14 @@
+header {
+  background-image: url($bg-image-url);
+@include cover-background();
+}
+
+header>nav ul li a, header> nav ul li a:visited {
+  color: $text-color;
+  font-weight: 700;
+}
+
+header>h1 a, header>h1 a:visited{
+  color: $text-color;
+  font-weight: 700;
+}

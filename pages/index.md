@@ -1,12 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: WhyDoIDev
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Welcome to my Web Development Blog.. I am trying to post here regularly and update posts with my journey so far
 ---
